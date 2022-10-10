@@ -8,6 +8,9 @@ You will need FFMpeg, Git, and the most recent NVIDIA driver for your system to 
 
 If you are here, then you already have everything...
 
+wget "https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Linux-x86_64.sh"
+wget "https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh"
+
 ### 3. Install DeepFaceLab
 
 Just run it in the terminal.
