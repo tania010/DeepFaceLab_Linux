@@ -7,3 +7,4 @@ $DFL_PYTHON "$DFL_SRC/main.py" train \
     --pretraining-data-dir "$DFL_SRC/pretrain_CelebA" \
     --model-dir "$DFL_WORKSPACE/model" \
     --model SAEHD
+
